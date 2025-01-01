@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="CCS:jira_21_basic_conn_querycall_ccs_1015" connectorServiceName="CCS:jira_21_basic_conn_querycall_ccs_1015"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
